@@ -2,9 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../../../Documents/response.json">
+      location = "group:MyApp.xcodeproj">
    </FileRef>
    <FileRef
-      location = "self:MyApp.xcodeproj">
+      location = "group:Pods/Pods.xcodeproj">
    </FileRef>
 </Workspace>
